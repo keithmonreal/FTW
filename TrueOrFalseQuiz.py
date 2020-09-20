@@ -6,7 +6,7 @@ Created on Mon Sep 21 00:15:37 2020
 """
 
 # Give the user some context and get his or her name
-print("\nAre you ready to take a quiz about everything and anything under the sun?")
+print("\nAre you ready to take a quiz about everything n anything under the sun?")
 choice = input("Yes or No\n")
 
 if 'Yes' in str(choice):
